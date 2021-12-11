@@ -178,8 +178,8 @@ if (json_encode($_SESSION) == '[]') {
                           </div>
                           <div class="preview-item-content d-sm-flex flex-grow">
                             <div class="flex-grow">
-                              <h6 class="preview-subject">Gutierrez Castro Ruth Najhely</h6>
-                              <p class="text-muted mb-0">Hace 2 días</p>
+                              <h6 class="preview-subject">Rossi Falcón Angiellina</h6>
+                              <p class="text-muted mb-0">Hace 20 minutos</p>
                             </div>
                             <div class="mr-auto text-sm-right pt-2 pt-sm-0">
                               <p class="text-muted">
@@ -190,52 +190,49 @@ if (json_encode($_SESSION) == '[]') {
                         </div>
                         <div class="preview-item border-bottom">
                           <div class="preview-thumbnail">
-                            <div class="preview-icon bg-info">
-                              <i class="mdi mdi-clock"></i>
-                            </div>
+                            <img src="../assets/images/faces/face2.jpg" alt="image" />
                           </div>
                           <div class="preview-item-content d-sm-flex flex-grow">
                             <div class="flex-grow">
-                              <h6 class="preview-subject">Project meeting</h6>
-                              <p class="text-muted mb-0">New project discussion</p>
+                              <h6 class="preview-subject">Gamboa Palomino Carlos Manuel</h6>
+                              <p class="text-muted mb-0">Hace 30 minutos</p>
                             </div>
                             <div class="mr-auto text-sm-right pt-2 pt-sm-0">
-                              <p class="text-muted">35 minutes ago</p>
-                              <p class="text-muted mb-0">15 tasks, 2 issues</p>
+                              <p class="text-muted">
+                                <button type="button" class="btn btn-inverse-primary btn-fw">Ver detalle</button>
+                              </p>
                             </div>
                           </div>
                         </div>
                         <div class="preview-item border-bottom">
                           <div class="preview-thumbnail">
-                            <div class="preview-icon bg-danger">
-                              <i class="mdi mdi-email-open"></i>
-                            </div>
+                            <img src="../assets/images/faces/face1.jpg" alt="image" />
                           </div>
                           <div class="preview-item-content d-sm-flex flex-grow">
                             <div class="flex-grow">
-                              <h6 class="preview-subject">Broadcast Mail</h6>
-                              <p class="text-muted mb-0">Sent release details to team</p>
+                              <h6 class="preview-subject">Rossi Falcón Angiellina</h6>
+                              <p class="text-muted mb-0">Hace 1 días</p>
                             </div>
                             <div class="mr-auto text-sm-right pt-2 pt-sm-0">
-                              <p class="text-muted">55 minutes ago</p>
-                              <p class="text-muted mb-0">35 tasks, 7 issues </p>
+                              <p class="text-muted">
+                                <button type="button" class="btn btn-inverse-primary btn-fw">Ver detalle</button>
+                              </p>
                             </div>
                           </div>
                         </div>
-                        <div class="preview-item">
+                        <div class="preview-item border-bottom">
                           <div class="preview-thumbnail">
-                            <div class="preview-icon bg-warning">
-                              <i class="mdi mdi-chart-pie"></i>
-                            </div>
+                            <img src="../assets/images/faces/face2.jpg" alt="image" />
                           </div>
                           <div class="preview-item-content d-sm-flex flex-grow">
                             <div class="flex-grow">
-                              <h6 class="preview-subject">UI Design</h6>
-                              <p class="text-muted mb-0">New application planning</p>
+                              <h6 class="preview-subject">Gamboa Palomino Carlos Manuel</h6>
+                              <p class="text-muted mb-0">Hace 2 días</p>
                             </div>
                             <div class="mr-auto text-sm-right pt-2 pt-sm-0">
-                              <p class="text-muted">50 minutes ago</p>
-                              <p class="text-muted mb-0">27 tasks, 4 issues </p>
+                              <p class="text-muted">
+                                <button type="button" class="btn btn-inverse-primary btn-fw">Ver detalle</button>
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -246,70 +243,11 @@ if (json_encode($_SESSION) == '[]') {
               </div>
             </div>
           </div>
-          <!--div class="row">
-              <div class="col-sm-4 grid-margin">
-                <div class="card">
-                  <div class="card-body">
-                    <h5>Revenue</h5>
-                    <div class="row">
-                      <div class="col-8 col-sm-12 col-xl-8 my-auto">
-                        <div class="d-flex d-sm-block d-md-flex align-items-center">
-                          <h2 class="mb-0">$32123</h2>
-                          <p class="text-success ml-2 mb-0 font-weight-medium">+3.5%</p>
-                        </div>
-                        <h6 class="text-muted font-weight-normal">11.38% Since last month</h6>
-                      </div>
-                      <div class="col-4 col-sm-12 col-xl-4 text-center text-xl-right">
-                        <i class="icon-lg mdi mdi-codepen text-primary ml-auto"></i>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-4 grid-margin">
-                <div class="card">
-                  <div class="card-body">
-                    <h5>Sales</h5>
-                    <div class="row">
-                      <div class="col-8 col-sm-12 col-xl-8 my-auto">
-                        <div class="d-flex d-sm-block d-md-flex align-items-center">
-                          <h2 class="mb-0">$45850</h2>
-                          <p class="text-success ml-2 mb-0 font-weight-medium">+8.3%</p>
-                        </div>
-                        <h6 class="text-muted font-weight-normal"> 9.61% Since last month</h6>
-                      </div>
-                      <div class="col-4 col-sm-12 col-xl-4 text-center text-xl-right">
-                        <i class="icon-lg mdi mdi-wallet-travel text-danger ml-auto"></i>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-4 grid-margin">
-                <div class="card">
-                  <div class="card-body">
-                    <h5>Purchase</h5>
-                    <div class="row">
-                      <div class="col-8 col-sm-12 col-xl-8 my-auto">
-                        <div class="d-flex d-sm-block d-md-flex align-items-center">
-                          <h2 class="mb-0">$2039</h2>
-                          <p class="text-danger ml-2 mb-0 font-weight-medium">-2.1% </p>
-                        </div>
-                        <h6 class="text-muted font-weight-normal">2.27% Since last month</h6>
-                      </div>
-                      <div class="col-4 col-sm-12 col-xl-4 text-center text-xl-right">
-                        <i class="icon-lg mdi mdi-monitor text-success ml-auto"></i>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div-->
           <div class="row ">
             <div class="col-12 grid-margin">
               <div class="card">
                 <div class="card-body">
-                  <h4 class="card-title">Detalle de venta</h4>
+                  <h4 class="card-title">Detalle de venta (Gamboa Palomino Carlos Manuel)</h4>
                   <div class="table-responsive">
                     <table class="table">
                       <thead>
@@ -340,37 +278,16 @@ if (json_encode($_SESSION) == '[]') {
                             </div>
                           </td>
                           <td>
-                            <img src="../assets/images/faces/face1.jpg" alt="image" />
-                            <span class="pl-2">Henry Klein</span>
+                            <img src="../img/4.jpg" alt="image" />
+                            <span class="pl-2">Zapatilla Exportacus</span>
                           </td>
-                          <td> 02312 </td>
-                          <td> $14,500 </td>
-                          <td> Dashboard </td>
-                          <td> Credit card </td>
-                          <td> 04 Dec 2019 </td>
+                          <td> 150.30 </td>
+                          <td> 12 </td>
+                          <td> 1803.60 </td>
+                          <td> 2021-12-11 </td>
+                          <td> Paypal </td>
                           <td>
-                            <div class="badge badge-outline-success">Approved</div>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <div class="form-check form-check-muted m-0">
-                              <label class="form-check-label">
-                                <input type="checkbox" class="form-check-input">
-                              </label>
-                            </div>
-                          </td>
-                          <td>
-                            <img src="../assets/images/faces/face2.jpg" alt="image" />
-                            <span class="pl-2">Estella Bryan</span>
-                          </td>
-                          <td> 02312 </td>
-                          <td> $14,500 </td>
-                          <td> Website </td>
-                          <td> Cash on delivered </td>
-                          <td> 04 Dec 2019 </td>
-                          <td>
-                            <div class="badge badge-outline-warning">Pending</div>
+                            <div class="badge badge-outline-danger">Agotado</div>
                           </td>
                         </tr>
                         <tr>
@@ -382,37 +299,16 @@ if (json_encode($_SESSION) == '[]') {
                             </div>
                           </td>
                           <td>
-                            <img src="../assets/images/faces/face5.jpg" alt="image" />
-                            <span class="pl-2">Lucy Abbott</span>
+                            <img src="../img/3.jpg" alt="image" />
+                            <span class="pl-2">Zapatilla Runner</span>
                           </td>
-                          <td> 02312 </td>
-                          <td> $14,500 </td>
-                          <td> App design </td>
-                          <td> Credit card </td>
-                          <td> 04 Dec 2019 </td>
+                          <td> 98.50 </td>
+                          <td> 1 </td>
+                          <td> 98.50 </td>
+                          <td> 2021-12-11 </td>
+                          <td> Paypal </td>
                           <td>
-                            <div class="badge badge-outline-danger">Rejected</div>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <div class="form-check form-check-muted m-0">
-                              <label class="form-check-label">
-                                <input type="checkbox" class="form-check-input">
-                              </label>
-                            </div>
-                          </td>
-                          <td>
-                            <img src="../assets/images/faces/face3.jpg" alt="image" />
-                            <span class="pl-2">Peter Gill</span>
-                          </td>
-                          <td> 02312 </td>
-                          <td> $14,500 </td>
-                          <td> Development </td>
-                          <td> Online Payment </td>
-                          <td> 04 Dec 2019 </td>
-                          <td>
-                            <div class="badge badge-outline-success">Approved</div>
+                            <div class="badge badge-outline-success">Disponible</div>
                           </td>
                         </tr>
                         <tr>
@@ -424,16 +320,58 @@ if (json_encode($_SESSION) == '[]') {
                             </div>
                           </td>
                           <td>
-                            <img src="../assets/images/faces/face4.jpg" alt="image" />
-                            <span class="pl-2">Sallie Reyes</span>
+                            <img src="../img/1.jpg" alt="image" />
+                            <span class="pl-2">Zapatilla Dragón Femenino</span>
                           </td>
-                          <td> 02312 </td>
-                          <td> $14,500 </td>
-                          <td> Website </td>
-                          <td> Credit card </td>
-                          <td> 04 Dec 2019 </td>
+                          <td> 105.20 </td>
+                          <td> 2 </td>
+                          <td> 310.40 </td>
+                          <td> 2021-12-11 </td>
+                          <td> Paypal </td>
                           <td>
-                            <div class="badge badge-outline-success">Approved</div>
+                            <div class="badge badge-outline-warning">Agotandose</div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="form-check form-check-muted m-0">
+                              <label class="form-check-label">
+                                <input type="checkbox" class="form-check-input">
+                              </label>
+                            </div>
+                          </td>
+                          <td>
+                            <img src="../img/7.jpg" alt="image" />
+                            <span class="pl-2">Zapatilla Dragón</span>
+                          </td>
+                          <td> 145.90 </td>
+                          <td> 2 </td>
+                          <td> 309.80 </td>
+                          <td> 2021-12-11 </td>
+                          <td> Paypal </td>
+                          <td>
+                            <div class="badge badge-outline-success">Disponible</div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="form-check form-check-muted m-0">
+                              <label class="form-check-label">
+                                <input type="checkbox" class="form-check-input">
+                              </label>
+                            </div>
+                          </td>
+                          <td>
+                            <img src="../img/8.jpg" alt="image" />
+                            <span class="pl-2">Zapatilla Super</span>
+                          </td>
+                          <td> 158.30 </td>
+                          <td> 1 </td>
+                          <td> 158.30 </td>
+                          <td> 2021-12-11 </td>
+                          <td> Paypal </td>
+                          <td>
+                            <div class="badge badge-outline-success">Disponible</div>
                           </td>
                         </tr>
                       </tbody>
@@ -443,135 +381,6 @@ if (json_encode($_SESSION) == '[]') {
               </div>
             </div>
           </div>
-          <!--div class="row">
-              <div class="col-md-6 col-xl-4 grid-margin stretch-card">
-                <div class="card">
-                  <div class="card-body">
-                    <h4 class="card-title">Zapatilla adidas</h4>
-                    <div class="owl-carousel owl-theme full-width owl-carousel-dash portfolio-carousel" id="owl-carousel-basic">
-                      <div class="item">
-                        <img src="../assets/images/dashboard/Rectangle.jpg" alt="">
-                      </div>
-                      <div class="item">
-                        <img src="../assets/images/dashboard/Img_5.jpg" alt="">
-                      </div>
-                      <div class="item">
-                        <img src="../assets/images/dashboard/img_6.jpg" alt="">
-                      </div>
-                    </div>
-                    <div class="d-flex py-4">
-                      <div class="preview-list w-100">
-                        <div class="preview-item p-0">
-                          <div class="preview-item-content d-flex flex-grow">
-                            <div class="flex-grow">
-                              <div class="d-flex d-md-block d-xl-flex justify-content-between">
-                                <h6 class="preview-subject">CeeCee Bass</h6>
-                                <p class="text-muted text-small">4 Hours Ago</p>
-                              </div>
-                              <p class="text-muted">Well, it seems to be working now.</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <p class="text-muted">Well, it seems to be working now. </p>
-                    <div class="progress progress-md portfolio-progress">
-                      <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 col-xl-4 grid-margin stretch-card">
-                <div class="card">
-                  <div class="card-body">
-                    <h4 class="card-title">Portfolio Slide</h4>
-                    <div class="owl-carousel owl-theme full-width owl-carousel-dash portfolio-carousel" id="owl-carousel-basic">
-                      <div class="item">
-                        <img src="../assets/images/dashboard/Rectangle.jpg" alt="">
-                      </div>
-                      <div class="item">
-                        <img src="../assets/images/dashboard/Img_5.jpg" alt="">
-                      </div>
-                      <div class="item">
-                        <img src="../assets/images/dashboard/img_6.jpg" alt="">
-                      </div>
-                    </div>
-                    <div class="d-flex py-4">
-                      <div class="preview-list w-100">
-                        <div class="preview-item p-0">
-                          <div class="preview-thumbnail">
-                            <img src="../assets/images/faces/face12.jpg" class="rounded-circle" alt="">
-                          </div>
-                          <div class="preview-item-content d-flex flex-grow">
-                            <div class="flex-grow">
-                              <div class="d-flex d-md-block d-xl-flex justify-content-between">
-                                <h6 class="preview-subject">CeeCee Bass</h6>
-                                <p class="text-muted text-small">4 Hours Ago</p>
-                              </div>
-                              <p class="text-muted">Well, it seems to be working now.</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <p class="text-muted">Well, it seems to be working now. </p>
-                    <div class="progress progress-md portfolio-progress">
-                      <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-12 col-xl-4 grid-margin stretch-card">
-                <div class="card">
-                  <div class="card-body">
-                    <h4 class="card-title">To do list</h4>
-                    <div class="add-items d-flex">
-                      <input type="text" class="form-control todo-list-input" placeholder="enter task..">
-                      <button class="add btn btn-primary todo-list-add-btn">Add</button>
-                    </div>
-                    <div class="list-wrapper">
-                      <ul class="d-flex flex-column-reverse text-white todo-list todo-list-custom">
-                        <li>
-                          <div class="form-check form-check-primary">
-                            <label class="form-check-label">
-                              <input class="checkbox" type="checkbox"> Create invoice </label>
-                          </div>
-                          <i class="remove mdi mdi-close-box"></i>
-                        </li>
-                        <li>
-                          <div class="form-check form-check-primary">
-                            <label class="form-check-label">
-                              <input class="checkbox" type="checkbox"> Meeting with Alita </label>
-                          </div>
-                          <i class="remove mdi mdi-close-box"></i>
-                        </li>
-                        <li class="completed">
-                          <div class="form-check form-check-primary">
-                            <label class="form-check-label">
-                              <input class="checkbox" type="checkbox" checked> Prepare for presentation </label>
-                          </div>
-                          <i class="remove mdi mdi-close-box"></i>
-                        </li>
-                        <li>
-                          <div class="form-check form-check-primary">
-                            <label class="form-check-label">
-                              <input class="checkbox" type="checkbox"> Plan weekend outing </label>
-                          </div>
-                          <i class="remove mdi mdi-close-box"></i>
-                        </li>
-                        <li>
-                          <div class="form-check form-check-primary">
-                            <label class="form-check-label">
-                              <input class="checkbox" type="checkbox"> Pick up kids from school </label>
-                          </div>
-                          <i class="remove mdi mdi-close-box"></i>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div-->
         </div>
         <?php
         include 'php/footer.php';

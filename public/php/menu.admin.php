@@ -82,9 +82,9 @@
             </a>
             <div class="collapse" id="menu-productos">
                 <ul class="nav flex-column sub-menu">
-                    <li class="nav-item"> <a class="nav-link" href="productos">Lista de productos</a></li>
-                    <li class="nav-item"> <a class="nav-link" href="marcas">Lista de marcas</a></li>
-                    <li class="nav-item"> <a class="nav-link" href="categorias">Lista de categorías</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/admin/productos">Lista de productos</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/admin/marcas">Lista de marcas</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/admin/categorias">Lista de categorías</a></li>
                 </ul>
             </div>
         </li>
@@ -98,9 +98,9 @@
             </a>
             <div class="collapse" id="menu-usuarios">
                 <ul class="nav flex-column sub-menu">
-                    <li class="nav-item"> <a class="nav-link" href="usuarios">Lista de usuarios</a></li>
-                    <li class="nav-item"> <a class="nav-link" href="roles">Lista de roles</a></li>
-                    <li class="nav-item"> <a class="nav-link" href="permisos">Lista de permisos</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/admin/usuarios">Lista de usuarios</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/admin/roles">Lista de roles</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/admin/permisos">Lista de permisos</a></li>
                 </ul>
             </div>
         </li>

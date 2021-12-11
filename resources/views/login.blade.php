@@ -57,7 +57,7 @@ if (isset($_SESSION['usuario']['rol']['id'])) {
                 <div class="text-center">
                   <button type="submit" class="btn btn-primary btn-block enter-btn">Iniciar sesión</button>
                 </div>
-                <p class="sign-up">¿No tienes una cuenta?<a href="register"> Registrate</a></p>
+                <p class="sign-up">¿No tienes una cuenta?<a href="/register"> Registrate</a></p>
               </form>
             </div>
           </div>
