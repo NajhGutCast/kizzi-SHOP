@@ -129,7 +129,7 @@
                 <div class="text-center">
                   <button type="submit" class="btn btn-primary btn-block enter-btn">Registrarme</button>
                 </div>
-                <p class="sign-up text-center">¿Ya tienes una cuenta? <a href="./login">Iniciar sesión</a></p>
+                <p class="sign-up text-center">¿Ya tienes una cuenta? <a href="login">Iniciar sesión</a></p>
                 <p class="terms">Al crear una cuenta, estás aceptando nuestros <a href="#">Términos y Condiciones</a></p>
 
               </form>
